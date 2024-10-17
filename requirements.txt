@@ -10,3 +10,10 @@ matplotlib
 scipy
 vega_datasets
 ipyvolume
+ipywidgets
+numpy
+matplotlib
+yfinance
+scipy
+cvxopt
+streamlit
